@@ -2,7 +2,11 @@
   <h3>🍀 ME 🍀</h3>
   
   
-<a href="https://www.instagram.com/hongssup/“><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hongssup"/></a>
+  <h4>I want to invite you to my Notion</h4>
+  <h4>Please click iKON</h4>
+  <a href="https://colorful-area-a25.notion.site/7bf1ceb20cde40a49f66eda97c9407a4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
+  <br><br><br><br>
+  
 
 
 
@@ -27,11 +31,18 @@ I'm a persistent person, who study hard day and night for be a good developer.�
 #
                    
 
-  <h3>🔥 Tech Stack 🔥</h3>                   
+  <h3>🔥 Tech Stack 🔥</h3>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> 
+  <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=CocoaPods&logoColor=white"> 
+  <img src="https://img.shields.io/badge/objc-F05138?style=for-the-badge&logo=objc&logoColor=white"> 
+  <br>
+                                                                                                   
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">                                                                                                     
   <br>
   
   
@@ -59,7 +70,16 @@ I'm a persistent person, who study hard day and night for be a good developer.�
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 
-
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white">                                                           
+  <br>      
+  
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+  <br> 
    
                    
                    
