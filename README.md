@@ -66,5 +66,5 @@ I'm a persistent person, who study hard day and night for be a good developer.ðŸ
 #
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinseunguk&theme=tokyonight&show_icons=true)<br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinseunguk&layout=compact&theme=tokyonight)
 </div>
