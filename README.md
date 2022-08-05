@@ -4,7 +4,7 @@
   
   <h4>I want to invite you to my Notion</h4>
   <h4>Please click iKON</h4>
-  <a href="https://colorful-area-a25.notion.site/7bf1ceb20cde40a49f66eda97c9407a4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
+  <a href="https://colorful-area-a25.notion.site/7bf1ceb20cde40a49f66eda97c9407a4" target="_blank" ><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
   <br><br><br><br>
   
 
