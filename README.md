@@ -19,13 +19,7 @@ My main skills are Swift, Obj-C, JAVA, HTML, CSS, js and AngularJS
 I'm a persistent person, who study hard day and night for be a good developer.🥰
                    
                    
-
-
-#
-
-
-  <h3>💙 I love..</h3>                   
-💪Exercise,  🖥Youtube,  💻Programming,  🎥Movies,  🎮Games                   
+            
 
 
 #
