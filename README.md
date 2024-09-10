@@ -14,9 +14,7 @@
 
 Hi There! I'm a iOS developer.
 
-My main skills are Swift, Obj-C, JAVA, HTML, CSS, js and AngularJS
-
-I'm a persistent person, who study hard day and night for be a good developer.🥰
+I'm a persistent person, who study hard day and night for be a good developer.
                    
                    
             
