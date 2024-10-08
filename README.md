@@ -79,4 +79,8 @@ I'm a persistent person, who study hard day and night for be a good developer.
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinseunguk&theme=tokyonight&show_icons=true)<br>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinseunguk&layout=compact&theme=tokyonight)
+
+  <br><br>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=krdut1)](https://solved.ac/krdut1/)
 </div>
+
