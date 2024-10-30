@@ -15,6 +15,8 @@
 Hi There! I'm a iOS developer.
 
 I'm a persistent person, who study hard day and night for be a good developer.
+
+<img src="https://github.com/shinseunguk/shinseunguk/blob/output/github-contribution-grid-snake.svg"/>
                    
                    
             
