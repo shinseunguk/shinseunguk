@@ -86,3 +86,6 @@ I'm a persistent person, who study hard day and night for be a good developer.
   <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=krdut1)](https://solved.ac/krdut1/) -->
 
 </div>
+
+
+<!-- Security scan triggered at 2025-09-02 15:04:23 -->
